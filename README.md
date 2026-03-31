@@ -1,6 +1,7 @@
 # AWS Serverless Order Processing System
 
 An event-driven, fully serverless application designed to handle high-traffic order submissions. This project explores the power of decoupling services using AWS Simple Queue Service (SQS) to ensure reliability and scalability.
+check project on: https://lnkd.in/eEGAaSkf
 
 ## 🏗️ Architecture
 The system follows a modern serverless pattern:
